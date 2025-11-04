@@ -8,8 +8,5 @@ Compact Chebyshev spectral fingerprints (CSF/ASF) for matrix retrieval and preco
 - **Hutchinson** trace sketches; works with sparse / operator-only matrices
 - **Probe-and-Switch** policy for trap-robust preconditioner selection
 
-## Quick Start
-```bash
-git clone https://github.com/<user>/matrix-phylogeny.git
-cd matrix-phylogeny
-pip install -r requirements.txt
+Runs as a single notebook. No setup required on Colab; for local runs, see the first cell (auto-install) or requirements.txt.
+Tested on Python 3.11.
